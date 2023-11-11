@@ -75,7 +75,7 @@ body{
     width: 100px;
     height: 60px;
     position:absolute;
-    top: 25%;
+    top: 3%;
     right: 3%;
     border-color: white;
     border-width: 10px;
@@ -87,8 +87,8 @@ body{
     width: 100px;
     height: 60px;
     position:absolute;
-    top: 25%;
-    right: 35%;
+    top: 3%;
+    left: 3%;
     border-color: white;
     border-width: 10px;
     border-style: solid;
