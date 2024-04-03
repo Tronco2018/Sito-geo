@@ -194,3 +194,24 @@ body{
     top: 205%;
     left: 2%;
 }
+.titletabella{
+    color:white;
+    font-family: sans-serif;
+    font-size: 70px;
+
+    position:absolute;
+    top: 250%;
+    left:20%;
+}
+
+.immaginetabella{
+    width: 1000px;
+    height: 500px;
+    position:absolute;
+    top: 280%;
+    left: 13%;
+    border-color: white;
+    border-width: 10px;
+    border-style: solid;
+    border-radius:100px;
+}
