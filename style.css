@@ -12,7 +12,7 @@ body{
 }
 
 .title:hover, .desc_rect:focus {
-    transform: scale(1.1); /* Ingrandisce l'oggetto del 20% quando il mouse è sopra o l'oggetto è in focus */
+    transform: scale(1.05); /* Ingrandisce l'oggetto del 20% quando il mouse è sopra o l'oggetto è in focus */
 
 }
 
@@ -29,7 +29,7 @@ body{
     width: 700px;
     height: 100px;
     position:absolute;
-    top: 37%;
+    top: 39%;
     left: 2%;
 }
 
@@ -194,6 +194,7 @@ body{
     top: 205%;
     left: 2%;
 }
+
 .titletabella{
     color:white;
     font-family: sans-serif;
